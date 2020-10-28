@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MX4\\source\\repos\\Lugia Integration Tools\\Lugia Integration Tools\\Lugia Integration Tools.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MX4\\source\\repos\\Lugia Integration Tools\\Lugia Integration Tools\\Lugia Integration Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MX4\\source\\repos\\Lugia Integration Tools\\Lugia Integration Tools\\Lugia Integration Tools.csproj",
+        "projectName": "Lugia Integration Tools",
+        "projectPath": "C:\\Users\\MX4\\source\\repos\\Lugia Integration Tools\\Lugia Integration Tools\\Lugia Integration Tools.csproj",
+        "packagesPath": "C:\\Users\\MX4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MX4\\source\\repos\\Lugia Integration Tools\\Lugia Integration Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\MX4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[16.7.3065, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[16.0.206, )"
+            },
+            "Microsoft.VisualStudio.Shell.15.0": {
+              "target": "Package",
+              "version": "[16.7.30329.88, )"
+            },
+            "VisualStudio.Extensibility.Common": {
+              "target": "Package",
+              "version": "[1.0.96, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

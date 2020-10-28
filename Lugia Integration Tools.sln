@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lugia Integration Tools", "Lugia Integration Tools\Lugia Integration Tools.csproj", "{FB3962D1-5A3C-4B4F-AFCE-608545F5C6DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3962D1-5A3C-4B4F-AFCE-608545F5C6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3962D1-5A3C-4B4F-AFCE-608545F5C6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3962D1-5A3C-4B4F-AFCE-608545F5C6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3962D1-5A3C-4B4F-AFCE-608545F5C6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A70BB7-9EBD-4AED-AD4D-0B19F0490305}
+	EndGlobalSection
+EndGlobal
